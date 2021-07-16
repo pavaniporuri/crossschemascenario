@@ -1,0 +1,8 @@
+{
+  "regionsdb": {
+    "target": {
+      "schema": "DEMOSCHEMA",
+      "object": "REGIONS"
+    }
+  }
+}

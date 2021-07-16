@@ -1,0 +1,8 @@
+{
+  "demosyn": {
+    "target": {
+      "object": "CUST_NO",
+      "schema": "DEMOSCHEMA"
+    }
+  }
+}

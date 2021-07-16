@@ -1,0 +1,8 @@
+{
+  "regionsproc": {
+    "target": {
+      "object": "PR_GET_REGIONS",
+      "schema": "DEMOSCHEMA"
+    }
+  }
+}

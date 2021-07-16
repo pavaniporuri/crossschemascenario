@@ -1,0 +1,14 @@
+{
+    "CC_RAMADEMO": {
+        "object_owner": {
+            "roles": [
+                "DEMOROLE"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "DEMOROLE"
+            ]
+        }
+    }
+}
